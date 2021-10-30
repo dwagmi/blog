@@ -1,0 +1,1 @@
+DEPLOYMENT_BRANCH=gh-pages GIT_USER=dwagmi USE_SSH=true yarn docusaurus deploy
